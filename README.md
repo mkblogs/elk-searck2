@@ -1,4 +1,4 @@
-# elk stack using log back logging to logstash directly.
+# elk stack example
  
 In this example , we feed generated log files to directly to logstash container. 
 
