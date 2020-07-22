@@ -2,8 +2,9 @@
  
  ### Run
  
+ ```
   docker-compose up -d
-    
+ ```   
  
 In this example , we feed generated log files to directly to logstash container. 
 
